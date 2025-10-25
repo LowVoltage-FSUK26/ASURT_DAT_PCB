@@ -10,7 +10,7 @@
 - Find a solution for the Temperature sensor I2C wiring (I2C Adapter? 100m extension) (Discuss with Samy)
 - Review the Buck converter's values (remeasure the current and decide whether we will use a module or design a new one) (Discuss with Samy)
 - Discuss with Samy and Ziad about how can we get the desired components (LCSC or Locally)
-- Add a Coin cell Battery (Choose a good battery and find its Altium footprint) (Configure VBAT on the STM32F4) (Add a 100nF decoupling cap on the VBAT)
+- Add a Coin cell Battery (Choose a good battery and find its Altium footprint) (Configure VBAT on the STM32F4) (Add a 100nF decoupling cap on the VBAT) DONE
 - Place the CAN Transceivers near to the 34-pin Connector
 
 - Hardware hacking of esp with an external antenna.
