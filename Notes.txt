@@ -12,3 +12,5 @@
 - Discuss with Samy and Ziad about how can we get the desired components (LCSC or Locally)
 - Add a Coin cell Battery (Choose a good battery and find its Altium footprint) (Configure VBAT on the STM32F4) (Add a 100nF decoupling cap on the VBAT)
 - Place the CAN Transceivers near to the 34-pin Connector
+
+- Hardware hacking of esp with an external antenna.
