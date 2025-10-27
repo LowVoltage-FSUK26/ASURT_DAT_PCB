@@ -2,7 +2,7 @@
 
 \- Separate Data lines of (ADC, SPI, I2C, CAN, etc..)
 
-\- Search about ground loops 
+\- Search about ground loops
 
 \- Configure PCB planes **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
@@ -20,7 +20,7 @@
 
 \- Review the Buck converter's values (remeasure the current and decide whether we will use a module or design a new one) (Discuss with Samy)
 
-\- Discuss with Samy and Ziad about how can we get the desired components (LCSC or Locally)
+\- Discuss with Samy and Ziad about how can we get the desired components (LCSC or Locally) **LCSC\*\*\*\*\*\*\*\*\*\*\*\***
 
 \- Add a Coin cell Battery (Choose a good battery and find its Altium footprint) (Configure VBAT on the STM32F4) (Add a 100nF decoupling cap on the VBAT) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
@@ -28,9 +28,11 @@
 
 \- VIAs should be at least 0.15mm (preferred) larger than Via hole size.
 
-
+* Coin Cell, SD Card, Decoupling Caps down.
+* 8\*15 cm^2
 
 
 
 \- 2oz or 1oz copper? chose 1oz for now
 
+* GPS module measurements needed
