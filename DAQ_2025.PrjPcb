@@ -526,7 +526,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AIQAGPDQ
 
 [Document29]
 DocumentPath=Libraries\34-pin_Connector\34-pin_Connector_Sch.SchLib

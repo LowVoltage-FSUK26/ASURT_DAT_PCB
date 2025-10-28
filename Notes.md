@@ -2,7 +2,7 @@
 
 \- Separate Data lines of (ADC, SPI, I2C, CAN, etc..)
 
-\- Search about ground loops
+\- Search about ground loops (Not a problem, there are no return paths for signals)
 
 \- Configure PCB planes **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
@@ -36,3 +36,4 @@
 \- 2oz or 1oz copper? chose 1oz for now
 
 * GPS module measurements needed
+* **\*\*\*\*\*\*\*\*\*\*\*IMPORTANT:** when routing ESP CAN 3v3, route provide different routes for both the shifter and non shifter modes
