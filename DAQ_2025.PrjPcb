@@ -764,7 +764,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NSYYNCFO
 
 [Document43]
 DocumentPath=Libraries\P-MOSFIT_IRF4905STRRPBF\P-MOSFIT_IRF4905STRRPBF_Sch.SchLib
@@ -781,7 +781,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YBXIAZEP
 
 [Document44]
 DocumentPath=Libraries\Radial_Fuse\Radial_Fuse_Pcb.PcbLib
