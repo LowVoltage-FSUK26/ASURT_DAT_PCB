@@ -41,4 +41,6 @@
 \- 2oz or 1oz copper? chose 1oz for now **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
 * GPS module measurements needed (28.055m)
+* Add Mounting Holes for IMU and GPS
+* Add Names for each pin in the 3-pin headers
 * **\*\*\*\*\*\*\*\*\*\*\*IMPORTANT:** when routing ESP CAN 3v3, route provide different routes for both the shifter and non shifter modes

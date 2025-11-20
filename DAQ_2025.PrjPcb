@@ -152,7 +152,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TISSTANI
 
 [Document7]
 DocumentPath=Libraries\Button\Button_Sch.SchLib
@@ -254,7 +254,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FLBKYEBP
 
 [Document13]
 DocumentPath=Libraries\AMS1117-3.3\AMS1117-3.3_Sch.SchLib
@@ -356,7 +356,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEFUGYOI
 
 [Document19]
 DocumentPath=Libraries\BNO055_IMU\BNO055.SchLib
@@ -560,7 +560,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LGFXUWMJ
 
 [Document31]
 DocumentPath=Libraries\LM2596SX-ADJ_NOPB\LM2596SX-ADJ_NOPB_Sch.SchLib
@@ -832,7 +832,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ABSACUMQ
 
 [Document47]
 DocumentPath=Libraries\DC_Barrel_Jack\DC_Barrel_Jack_Sch.SchLib
