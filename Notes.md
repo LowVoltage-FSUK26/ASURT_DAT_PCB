@@ -42,5 +42,8 @@
 
 * GPS module measurements needed (28.055m)
 * Add Mounting Holes for IMU and GPS
-* Add Names for each pin in the 3-pin headers
+* Add Labels for each pin in the 3-pin headers and push buttons
 * **\*\*\*\*\*\*\*\*\*\*\*IMPORTANT:** when routing ESP CAN 3v3, route provide different routes for both the shifter and non shifter modes
+
+
+* Hmmmmm The heat sink is connected to ground...... right?
