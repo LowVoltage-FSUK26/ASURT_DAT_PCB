@@ -322,7 +322,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IETOYTTF
 
 [Document17]
 DocumentPath=Libraries\SD-Card_Reader\SD-Card_Reader_Sch.SchLib
@@ -390,7 +390,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TRMXLFCO
 
 [Document21]
 DocumentPath=Libraries\11-pin_Header\11-pin_Header_Sch.SchLib
