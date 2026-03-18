@@ -84,7 +84,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PJJBOUDJ
 
 [Document3]
 DocumentPath=Libraries\Phil's Lab Lib\Schematic-Lib-PhilsLab.SchLib
@@ -101,7 +101,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NDNXAREH
 
 [Document4]
 DocumentPath=Libraries\STM32F446RET6\STM32F4_Pcb.PcbLib
@@ -373,7 +373,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZNAFHWWR
 
 [Document20]
 DocumentPath=Libraries\11-pin_Header\11-pin_Header_Pcb.PcbLib
@@ -424,7 +424,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LYBXKETG
 
 [Document23]
 DocumentPath=Libraries\5V_TVS_Diode\5V_TVS_Diode_Sch.SchLib
@@ -441,7 +441,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CFPOPYZO
 
 [Document24]
 DocumentPath=Libraries\MCP2551-I_SN\MCP2551-I_SN_Pcb.PcbLib
@@ -458,7 +458,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WTMPSJHW
 
 [Document25]
 DocumentPath=Libraries\MCP2551-I_SN\MCP2551-I_SN_Sch.SchLib
@@ -577,7 +577,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QIKRAMPX
 
 [Document32]
 DocumentPath=Libraries\Inductor_Sumida CDRH127LDNP-470MC\CDRH127_LDNP-470MC.PcbLib
@@ -594,7 +594,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FCTPIKRD
 
 [Document33]
 DocumentPath=Libraries\Inductor_Sumida CDRH127LDNP-470MC\CDRH127_LDNP-470MC.SchLib
@@ -611,7 +611,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HIYHMEXQ
 
 [Document34]
 DocumentPath=Libraries\Buck_Cout_EEEFT1E471AP\CAP_EEEFT1E471AP_Pcb.PcbLib
@@ -628,7 +628,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QUTRPTUF
 
 [Document35]
 DocumentPath=Libraries\Buck_Cout_EEEFT1E471AP\CAP_EEEFT1E471AP_Sch.SchLib
@@ -645,7 +645,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WCOXGGTX
 
 [Document36]
 DocumentPath=Libraries\Pot_10KOhm\Pot_10KOhm_Pcb.PcbLib
@@ -662,7 +662,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RSSUUQWG
 
 [Document37]
 DocumentPath=Libraries\Pot_10KOhm\Pot_10KOhm_Sch.SchLib
@@ -679,7 +679,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JBKAUPUL
 
 [Document38]
 DocumentPath=Libraries\Buck_CatchDiode_SS34-A\Buck_CatchDiode_SS34-A_Pcb.PcbLib
@@ -696,7 +696,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OFFEOIGU
 
 [Document39]
 DocumentPath=Libraries\Buck_CatchDiode_SS34-A\Buck_CatchDiode_SS34-A_Sch.SchLib
@@ -713,7 +713,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEETOOJL
 
 [Document40]
 DocumentPath=Libraries\SN65HVD230D_CAN3.3V\SN65HVD230D_CAN3.3V_Pcb.PcbLib
@@ -730,7 +730,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WOBETFSD
 
 [Document41]
 DocumentPath=Libraries\SN65HVD230D_CAN3.3V\SN65HVD230D_CAN3.3V_Sch.SchLib
@@ -798,7 +798,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HDUVGMGJ
 
 [Document45]
 DocumentPath=Libraries\Radial_Fuse\Radial_Fuse_Sch.SchLib
@@ -815,7 +815,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LTXKCEUD
 
 [Document46]
 DocumentPath=Libraries\DC_Barrel_Jack\DC_Barrel_Jack_Pcb.PcbLib
@@ -849,7 +849,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WVFKNSUU
 
 [Document48]
 DocumentPath=Libraries\3_pin_Header\3_pin_Header_Pcb.PcbLib
@@ -866,7 +866,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QRXVJUFV
 
 [Document49]
 DocumentPath=Libraries\3_pin_Header\3_pin_Header_Sch.SchLib
@@ -900,7 +900,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YSCWXJHE
 
 [Document51]
 DocumentPath=Libraries\USB-B_Connector\USB-B_Connector_Sch.SchLib
@@ -917,7 +917,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EOSBVFDE
 
 [Document52]
 DocumentPath=Libraries\N-MOSFET_SOT23\N-MOSFET_SOT23_Pcb.PcbLib
@@ -934,7 +934,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HYORIFTB
 
 [Document53]
 DocumentPath=Libraries\N-MOSFET_SOT23\N-MOSFET_SOT23_Sch.SchLib
@@ -951,7 +951,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LINXVXGS
 
 [Document54]
 DocumentPath=Libraries\ESD_CAN\ESD_CAN_Pcb.PcbLib
@@ -968,7 +968,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QIRDLWEJ
 
 [Document55]
 DocumentPath=Libraries\ESD_CAN\ESD_CAN_Sch.SchLib
@@ -1037,6 +1037,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document59]
+DocumentPath=Libraries\ESP32-S3-WROOM-1\ESP32-S3-WROOM-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DYSLAVKE
+
+[Document60]
+DocumentPath=Libraries\ESP32-S3-WROOM-1\ESP32-S3-WROOM-1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VIKFYMPI
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DAQ_2025\DAQ_Doc-RectHoles.TXT
