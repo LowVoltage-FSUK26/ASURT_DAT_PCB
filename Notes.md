@@ -51,9 +51,10 @@
 
 ###### New To-Do List:
 
-* GPS headers
+* GPS headers **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 * ESP new package **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 * ESP repositioning (antenna issues) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
+* ESP USB Impedance matching **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 * Q1 \& Q2
 * Designators
 
