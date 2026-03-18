@@ -7,7 +7,8 @@
 \- Configure PCB planes **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
 \- Which is better (two GND planes) or (one for GND and one for Power) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
-- Which power plane we will choose? (which 3.3V?) (Is it better to do the double GND planes?) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
+
+* Which power plane we will choose? (which 3.3V?) (Is it better to do the double GND planes?) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 (Two GND Planes)
 
 \- Configure the DFM for JLC PCB **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
@@ -51,14 +52,14 @@
 ###### New To-Do List:
 
 * GPS headers
-* ESP new package
-* ESP repositioning (antenna issues)
+* ESP new package **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
+* ESP repositioning (antenna issues) **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 * Q1 \& Q2
 * Designators
 
 
 
-Optional: 
+Optional:
 
-* SPI between ESP and STM
+* SPI between ESP and STM **\*\*\*\*\*\*\*\*\*\*\*DONE\*\*\*\*\*\*\*\*\*\*\***
 
